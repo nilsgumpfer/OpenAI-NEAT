@@ -8,7 +8,7 @@ from neat import nn, population, statistics, parallel
 ### User Params ###
 
 # The name of the game to solve
-game_name = 'CartPole-v0'
+game_name = 'MsPacman-ram-v0'
 
 ### End User Params ###
 
